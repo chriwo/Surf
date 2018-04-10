@@ -32,7 +32,7 @@ script:
   - >
     echo;
     echo "Running unit tests";
-    vendor/bin/phpunit Tests/Unit/
+    vendor/bin/phpunit
   - >
     echo;
     echo "Running php lint";
